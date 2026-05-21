@@ -20,7 +20,7 @@ EDA on 51,000+ restaurants listed on Zomato in Bengaluru.
   Byg Brewski Brewing Company	in Sarjapur Road	16832 has most votes.
   
 - Does online ordering affect ratings?
-  Yes. 49% sales from online order so by hypothetical 48% om;ine order affect rating.
+  Yes. 49% sales from online order so by hypothetical 48% online order affect rating.
 
 ## Tools Used
 Python, Pandas, Matplotlib, Seaborn
