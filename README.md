@@ -2,9 +2,7 @@
 
 ## Problem
 
-Bengaluru is a Tier 1 city with a massive food delivery market. With 51,000+ restaurant listings on Zomato, it's hard for anyone — a new restaurant owner, a food-tech analyst, or a product team — to understand what's actually driving customer choices. Which cuisines dominate? Which areas have the most competition? What separates high-rated restaurants from average ones?
-
-This project answers those questions using data.
+Bengaluru is a Tier 1 city with a massive food delivery market with 51,000+ restaurant listings on Zomato.
 
 ---
 
@@ -48,7 +46,7 @@ Among all 51,000 listings, **Byg Brewski** (a brewing company) received the high
 
 ---
 
-## Impact
+## Business Impact
 
 - A new restaurant entering Bengaluru should **avoid BTM Layout** unless differentiated — it's oversaturated.
 - **North Indian cuisine + delivery** is the safest combo for volume, but also the most crowded.
